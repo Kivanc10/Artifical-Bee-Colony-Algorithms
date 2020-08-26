@@ -2,7 +2,7 @@
 
 
 ## what is the TSP
-Traveling Salesman Problem (GSP), nodes
+Traveling Salesman Problem (TSP), nodes
 the cost (distance, time or
 expense) to a minimum
 to move the points only once
